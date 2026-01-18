@@ -1,16 +1,4 @@
-## Hi there 👋
-
-<!--
-**Rutvij2109/Rutvij2109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...# 💫 About Me:
+# 💫 About Me:
  Second Year Computer Engineering Student  <br> Executive Member – Google Developers Group on Campus  <br> Hackathon Enthusiast  <br><br> Tech Stack:<br>HTML, CSS, JavaScript, React, Node.js  <br>Python, C++, Java, C  <br>Streamlit, Firebase, Cloud Computing  <br><br> Interests: Cloud Computing & AI/ML<br>
 
 
@@ -31,6 +19,3 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=Rutvij2109&icon=8&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
